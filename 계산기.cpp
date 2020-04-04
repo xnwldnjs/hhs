@@ -6,8 +6,7 @@
 #include <stack>
 #include <vector>
 using namespace std;
-//hellow
-
+//hi hello
 int priority(int op)
 {
 	switch (op)
